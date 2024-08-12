@@ -1,4 +1,29 @@
-PRUEBAS DE GIT
+Me he dedicado al desarrollo de software para aplicaciones de escritorio.
+Habituado a trabajar bajo presión y a enfrentar desafíos en el área de la
+tecnología. Me caracterizo por ser una persona positiva, proactiva y con
+buena disposición para el trabajo en equipo.
+
+Responsabilidades
+.  Análisis, planificación y desarrollo de aplicaciones de escritorio C#
+basadas en Net Framework .
+.  Desarrollo de mejoras para aplicaciones web basadas en ASPX
+usando C# y JavaScript como lenguaje de programación.
+.  Creación de tablas, vistas y store procedure para la consulta de
+información en base de datos relacionales, SQL Server.
+.  Diseño de Reportes usando la herramienta DevExpress para la
+plataforma .NET
+.  Desarrollo de endpoints en API .Net Core para consumo e
+integraciones con otros sistemas. 
+.  Manejo de la herramienta Team
+Fundation como sistema de control de Código Fuente.
+
+Lenguajes usados
+C#, ASPNET, JS, SQL
+
+
+
+
+Help Git
 GIT CLONE URL
 GIT ADD .
 GIT COMMIT -M "MENSAJE"
